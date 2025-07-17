@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "used_tick_wand": {
+      "trigger": "minecraft:item_used",
+      "conditions": {
+        "predicate": "tickless:is_tick_wand"
+      }
+    }
+  },
+  "rewards": {
+    "function": "tickless:tick"
+  }
+}

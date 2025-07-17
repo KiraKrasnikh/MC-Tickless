@@ -1,0 +1,6 @@
+{
+  "item": {
+    "items": ["minecraft:stick"],
+    "nbt": "{tickless:1b}"
+  }
+}
