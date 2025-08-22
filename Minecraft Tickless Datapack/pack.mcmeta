@@ -1,9 +1,6 @@
 {
   "pack": {
-    "pack_format": {
-      "resource": 34,
-      "data": 48
-    },
+    "pack_format": 81,
     "description": "Minecraft: Tickless - это датапак для Tickless челленджа в Minecraft. Правила можно узнать на официальном Discord-сервере или просто играть в своё удовольствие)"
   }
 }
