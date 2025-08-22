@@ -1,5 +1,5 @@
 # Снимаем старые теги на всякий случай
-tag @a remove unfrozen
+tag @a remove tickless_unfrozen
 
 # Замораживаем тики
 tick freeze
